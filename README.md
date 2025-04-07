@@ -20,6 +20,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 📆 Agenda
 
+
 ### Day 1: 🚀 Getting started
 
 - [ ] Introduction and Icebreaker
